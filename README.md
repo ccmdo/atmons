@@ -55,6 +55,6 @@ This container is designed for [Unraid](https://unraid.net) so the user in the c
 If the installation is incomplete for some reason.  Deleting the downloaded server file in /data will restart the install/upgrade process.
 
 ## Source (ccmdo repo)
-Github: https://github.com/ccmdo/docker-atmons
+Github: https://github.com/ccmdo/atmons
 
 Docker: https://registry.hub.docker.com/r/ccmdo/docker-atmons
