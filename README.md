@@ -16,7 +16,7 @@
 
 ## Description
 
-The docker on the first run will download the same version as tagged `ATMons 0.11.0-beta` and install it.  This can take a while as the Forge installer can take a bit to complete.  You can watch the logs and it will eventually finish.
+The docker on the first run will download the same version as tagged `ATMons 0.12.0-beta` and install it.  This can take a while as the Forge installer can take a bit to complete.  You can watch the logs and it will eventually finish.
 
 After the first run, it will simply start the server.
 
